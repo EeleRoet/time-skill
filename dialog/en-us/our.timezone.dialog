@@ -1,0 +1,3 @@
+Our current timezone is {timezone}, which is {hours} hours {aheadOrBehind} standard UTC time
+We use the {timezone} timezone, which is {hours} hours {aheadOrBehind} standard UTC time
+that would be {timezone}, which is {hours} hours {aheadOrBehind} standard UTC time
